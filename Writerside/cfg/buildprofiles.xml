@@ -9,5 +9,10 @@
             <algolia-api-key>8113c6b012be48775c5addcdc3d832f1</algolia-api-key>
         </variables>
     </build-profile>
+    <build-profile instance="dg">
+        <variables>
+            <noindex-content>false</noindex-content>
+        </variables>
+    </build-profile>
 
 </buildprofiles>
