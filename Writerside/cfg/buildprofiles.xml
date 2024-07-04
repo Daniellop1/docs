@@ -4,11 +4,6 @@
     <build-profile instance="d">
         <variables>
             <noindex-content>false</noindex-content>
-            <algolia-id>VHRQKXJUXX</algolia-id>
-            <algolia-index>dev_docs</algolia-index>
-            <algolia-api-key>8113c6b012be48775c5addcdc3d832f1</algolia-api-key>
-
-            <include-in-head>additional-styles.html</include-in-head>
         </variables>
     </build-profile>
     <build-profile instance="dg">
