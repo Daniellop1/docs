@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <build-profile instance="d">
+        <variables>
+            <noindex-content>false</noindex-content>
+            <algolia-id>VHRQKXJUXX</algolia-id>
+            <algolia-index>dev_docs</algolia-index>
+            <algolia-api-key>8113c6b012be48775c5addcdc3d832f1</algolia-api-key>
+        </variables>
+    </build-profile>
+
+</buildprofiles>
