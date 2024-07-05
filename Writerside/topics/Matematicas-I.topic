@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
-       title="Matemáticas I" id="Matemáticas-I">
+       title="Matemáticas I" id="Matematicas-I">
 
 <!--    A section combines multiple topics dedicated to a specific subject.
             Add a starting page to provide an overview of the topics in the section.
@@ -26,7 +26,7 @@
         <!--    Add several topics that are most important for this section.    -->
         <primary>
             <title id="temas">Temas</title>
-            <a href="Números-Complejos.md" summary="Números complejos">Tema 1</a>
+            <a href="Numeros-Complejos.md" summary="Números complejos">Tema 1</a>
             <a href="https://github.com/daniellop1" summary="Límites y continuidad">Tema 2</a>
             <a href="https://github.com/daniellop1" summary="Recta tangente, Regla de la cadena y Polinomio de Taylor">Tema 3</a>
             <a href="https://github.com/daniellop1" summary="Primitivas, Riemman e integral impropia, aplicaciones de la integral">Tema 4</a>

@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
-       title="Grafos y Optimización en redes" id="Section-Starting-Page">
+       title="Grafos y Optimización en redes" id="GOR" help-id="Section-Starting-Page">
 
 <!--    A section combines multiple topics dedicated to a specific subject.
             Add a starting page to provide an overview of the topics in the section.
@@ -26,7 +26,7 @@
 
         <primary>
             <title id="temas">Temas</title>
-            <a href="Números-Complejos.md" summary="Grafos básicos">Tema 1</a>
+            <a href="Numeros-Complejos.md" summary="Grafos básicos">Tema 1</a>
             <a href="https://github.com/daniellop1" summary="Grafos planos">Tema 2</a>
             <a href="https://github.com/daniellop1" summary="Coloración de grafos">Tema 3</a>
             <a href="https://github.com/daniellop1" summary="Emparejamiento">Tema 4</a>
