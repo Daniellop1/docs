@@ -42,8 +42,8 @@
         <!--    Add several topics that are less important or are relevant only for advanced/experienced users.    -->
         <secondary id="examenes">
             <title>Exámenes</title>
-            <a href="https://github.com/daniellop1" summary="No disponible">Primer parcial</a>
-            <a href="https://github.com/daniellop1" summary="No disponible">Segundo parcial</a>
+            <a href="Control-3.md" summary="Red de comunicación más corta">Tercer control</a>
+            <a href="Examen-2.md" summary="Segundo examen parcial">Segundo examen</a>
         </secondary>
     </section-starting-page>
 

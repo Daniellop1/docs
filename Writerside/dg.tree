@@ -8,9 +8,12 @@
 
     <toc-element topic="index.topic"/>
     <toc-element topic="Matematicas-I.topic">
+        <toc-element topic="Control-1.md"/>
         <toc-element topic="Numeros-Complejos.md"/>
     </toc-element>
     <toc-element topic="GOR.topic">
+        <toc-element topic="TSP.md"/>
         <toc-element topic="Control-3.md"/>
+        <toc-element topic="Examen-2.md"/>
     </toc-element>
 </instance-profile>

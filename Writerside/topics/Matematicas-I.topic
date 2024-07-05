@@ -36,8 +36,7 @@
         <!--    Add several topics that are less important or are relevant only for advanced/experienced users.    -->
         <secondary id="examenes">
             <title>Exámenes</title>
-            <a href="https://github.com/daniellop1" summary="Contenido del primer parcial">Primer parcial</a>
-            <a href="https://github.com/daniellop1" summary="Contenido del segundo parcial">Segundo parcial</a>
+            <a href="Control-1.md" summary="Contenido del primer control">Primer control</a>
         </secondary>
     </section-starting-page>
 

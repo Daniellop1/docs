@@ -25,15 +25,15 @@
         </spotlight>
         <!--    Add several topics that are most important for this section.    -->
         <primary>
-            <title>¿Qué es Drex?</title>
-            <a href="Numeros-Complejos.md" summary="Números complejos">Tema 1</a>
+            <title>Otros recursos</title>
+            <a href="https://docs.python.org/3/" summary="Documentación oficial de python">Python</a>
+            <a href="https://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf" summary="Documentación de R">R</a>
         </primary>
 
         <!--    Add several topics that are less important or are relevant only for advanced/experienced users.    -->
-        <secondary id="examenes">
-            <title>Exámenes</title>
-            <a href="https://github.com/daniellop1" summary="Contenido del primer parcial">Primer parcial</a>
-            <a href="https://github.com/daniellop1" summary="Contenido del segundo parcial">Segundo parcial</a>
+        <secondary>
+            <title>Otras webs</title>
+            <a href="https://notes.dlopez.eu.org" summary="Repositorio de notas de clase">Notes (Interno)</a>
         </secondary>
     </section-starting-page>
 
