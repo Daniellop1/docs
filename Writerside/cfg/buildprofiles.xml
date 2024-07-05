@@ -9,7 +9,17 @@
     <build-profile instance="dg">
         <variables>
             <noindex-content>false</noindex-content>
+            <algolia-id>VHRQKXJUXX</algolia-id>
+            <algolia-index>dev_docs</algolia-index>
+            <algolia-api-key>8113c6b012be48775c5addcdc3d832f1</algolia-api-key>
         </variables>
+        <footer>
+            <social type="blog" href="https://blog.dlopez.eu.org">Blog</social>
+            <social type="instagram" href="https://instagram.com/daniellop1_">Instagram</social>
+            <social type="linkedin" href="https://linkedin.com/in/daniellop">Linkedin</social>
+
+            <copyright>2024 Daniel López Pérez. All rights reserved.</copyright>
+        </footer>
     </build-profile>
 
 </buildprofiles>
