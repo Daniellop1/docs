@@ -10,4 +10,12 @@
         <description>Created after removal of "mates" from Drex</description>
         <accepts>mates.html</accepts>
     </rule>
+    <rule id="df7d933">
+        <description>Created after removal of "Tutorial" from Drex</description>
+        <accepts>Tutorial.html</accepts>
+    </rule>
+    <rule id="5d326bb2">
+        <description>Created after removal of "Section Starting Page" from Drex</description>
+        <accepts>asd.html</accepts>
+    </rule>
 </rules>

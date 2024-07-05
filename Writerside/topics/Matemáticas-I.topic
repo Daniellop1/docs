@@ -17,22 +17,27 @@
 
     <section-starting-page>
         <title>Matemáticas I</title>
-
+        <description>1er curso, 1er semestre</description>
+        <!--    Add several topics that are most important for this section.    -->
+        <spotlight>
+            <a href="#temas" type="install" summary="Exámenes resueltos">Exámenes</a>
+            <a href="#examenes" type="search" summary="Apuntes y notas de clase">Apuntes</a>
+        </spotlight>
         <!--    Add several topics that are most important for this section.    -->
         <primary>
-            <title>Temas</title>
+            <title id="temas">Temas</title>
             <a href="Números-Complejos.md" summary="Números complejos">Tema 1</a>
-            <a href="" summary="Límites y continuidad">Tema 2</a>
-            <a href="" summary="Recta tangente, Regla de la cadena y Polinomio de Taylor">Tema 3</a>
-            <a href="" summary="Primitivas, Riemman e integral impropia, aplicaciones de la integral">Tema 4</a>
-            <a href="" summary="Diferenciales ordinarias, PVIs">Tema 5</a>
+            <a href="https://github.com/daniellop1" summary="Límites y continuidad">Tema 2</a>
+            <a href="https://github.com/daniellop1" summary="Recta tangente, Regla de la cadena y Polinomio de Taylor">Tema 3</a>
+            <a href="https://github.com/daniellop1" summary="Primitivas, Riemman e integral impropia, aplicaciones de la integral">Tema 4</a>
+            <a href="https://github.com/daniellop1" summary="Diferenciales ordinarias, PVIs">Tema 5</a>
         </primary>
 
         <!--    Add several topics that are less important or are relevant only for advanced/experienced users.    -->
-        <secondary>
+        <secondary id="examenes">
             <title>Exámenes</title>
-            <a href="" summary="">Primer parcial</a>
-            <a href="" summary="">Segundo parcial</a>
+            <a href="https://github.com/daniellop1" summary="Contenido del primer parcial">Primer parcial</a>
+            <a href="https://github.com/daniellop1" summary="Contenido del segundo parcial">Segundo parcial</a>
         </secondary>
     </section-starting-page>
 

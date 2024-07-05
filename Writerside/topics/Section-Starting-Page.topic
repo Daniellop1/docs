@@ -17,28 +17,33 @@
 
     <section-starting-page>
         <title>Grafos y optimización en redes</title>
-
+        <description>1er curso, 2º semestre</description>
         <!--    Add several topics that are most important for this section.    -->
+        <spotlight>
+            <a href="#temas" type="install" summary="Exámenes resueltos">Exámenes</a>
+            <a href="#examenes" type="search" summary="Apuntes y notas de clase">Apuntes</a>
+        </spotlight>
+
         <primary>
-            <title>Temas</title>
+            <title id="temas">Temas</title>
             <a href="Números-Complejos.md" summary="Grafos básicos">Tema 1</a>
-            <a href="" summary="Grafos planos">Tema 2</a>
-            <a href="" summary="Coloración de grafos">Tema 3</a>
-            <a href="" summary="Emparejamiento">Tema 4</a>
-            <a href="" summary="Árboles">Tema 5</a>
-            <a href="" summary="Análisis matricial de grafos">Tema 6</a>
-            <a href="" summary="Árboles recubridores mínimos en grafos ponderados">Tema 7</a>
-            <a href="" summary="Flujo en redes">Tema 8</a>
-            <a href="" summary="Complejidad algorítmica">Tema 9</a>
-            <a href="" summary="El problema del viajante">Tema 10</a>
-            <a href="" summary="Otros problemas NP-difíciles">Tema 11</a>
+            <a href="https://github.com/daniellop1" summary="Grafos planos">Tema 2</a>
+            <a href="https://github.com/daniellop1" summary="Coloración de grafos">Tema 3</a>
+            <a href="https://github.com/daniellop1" summary="Emparejamiento">Tema 4</a>
+            <a href="https://github.com/daniellop1" summary="Árboles">Tema 5</a>
+            <a href="https://github.com/daniellop1" summary="Análisis matricial de grafos">Tema 6</a>
+            <a href="https://github.com/daniellop1" summary="Árboles recubridores mínimos en grafos ponderados">Tema 7</a>
+            <a href="https://github.com/daniellop1" summary="Flujo en redes">Tema 8</a>
+            <a href="https://github.com/daniellop1" summary="Complejidad algorítmica">Tema 9</a>
+            <a href="https://github.com/daniellop1" summary="El problema del viajante">Tema 10</a>
+            <a href="https://github.com/daniellop1" summary="Otros problemas NP-difíciles">Tema 11</a>
         </primary>
 
         <!--    Add several topics that are less important or are relevant only for advanced/experienced users.    -->
-        <secondary>
+        <secondary id="examenes">
             <title>Exámenes</title>
-            <a href="" summary="">Primer parcial</a>
-            <a href="" summary="">Segundo parcial</a>
+            <a href="https://github.com/daniellop1" summary="No disponible">Primer parcial</a>
+            <a href="https://github.com/daniellop1" summary="No disponible">Segundo parcial</a>
         </secondary>
     </section-starting-page>
 
